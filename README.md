@@ -1,0 +1,1 @@
+# OpenDataContestLecce2
